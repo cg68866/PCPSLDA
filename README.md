@@ -4,8 +4,11 @@ Principal component regression analysis for lncRNA-disease association predictio
 # Requirements
 The parameters are set in Weka as follows.
 batchSize=100
+
 debug=false
+
 doNotCheckCapabilities=false
+
 maxlts=-1
 numDecimalPlaces=4
 ridge=1.0E-8
